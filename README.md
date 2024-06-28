@@ -1,4 +1,4 @@
-## RustProjectTemplete
+## Rust项目模板
 
 ### 安装 cargo generate
 
