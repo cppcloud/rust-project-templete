@@ -1,4 +1,16 @@
-# Geektime Rust 语言训练营
+## RustProjectTemplete
+
+### 安装 cargo generate
+
+```bash
+cargo install cargo-generate --locked
+```
+
+### 根据模板创建项目
+
+``` bash
+cargo generate --git https://github.com/cppcloud/rust-project-templete.git
+```
 
 ## 环境设置
 
